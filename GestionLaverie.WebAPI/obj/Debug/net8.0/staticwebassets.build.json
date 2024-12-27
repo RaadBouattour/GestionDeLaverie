@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wXpe6RdYHh73DMjB4GRuGPiyAjC+tDZ1OQbdmDT8jgs=",
+  "Source": "GestionLaverie.WebAPI",
+  "BasePath": "_content/GestionLaverie.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

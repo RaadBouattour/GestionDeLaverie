@@ -1,0 +1,10 @@
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\bin\Debug\GestionLaverieSimulateur.exe.config
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\bin\Debug\GestionLaverieSimulateur.exe
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\bin\Debug\GestionLaverieSimulateur.pdb
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\bin\Debug\Newtonsoft.Json.dll
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\bin\Debug\Newtonsoft.Json.xml
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\obj\Debug\GestionLaverieSimulateur.csproj.AssemblyReference.cache
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\obj\Debug\GestionLaverieSimulateur.csproj.CoreCompileInputs.cache
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\obj\Debug\GestionL.B309D8AB.Up2Date
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\obj\Debug\GestionLaverieSimulateur.exe
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\obj\Debug\GestionLaverieSimulateur.pdb

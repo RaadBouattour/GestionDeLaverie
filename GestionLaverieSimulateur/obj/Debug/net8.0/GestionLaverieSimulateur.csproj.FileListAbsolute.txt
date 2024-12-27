@@ -1,0 +1,5 @@
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\obj\Debug\net8.0\GestionLaverieSimulateur.csproj.AssemblyReference.cache
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\obj\Debug\net8.0\GestionLaverieSimulateur.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\obj\Debug\net8.0\GestionLaverieSimulateur.AssemblyInfoInputs.cache
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\obj\Debug\net8.0\GestionLaverieSimulateur.AssemblyInfo.cs
+D:\DSI3\GestionDeLaveries\GestionLaverieSimulateur\obj\Debug\net8.0\GestionLaverieSimulateur.csproj.CoreCompileInputs.cache

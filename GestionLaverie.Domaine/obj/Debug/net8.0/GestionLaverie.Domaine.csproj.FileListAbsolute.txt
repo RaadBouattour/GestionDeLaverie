@@ -1,0 +1,12 @@
+D:\DSI3\GestionDeLaveries\GestionLaverie.Domaine\bin\Debug\net8.0\GestionLaverie.Domaine.deps.json
+D:\DSI3\GestionDeLaveries\GestionLaverie.Domaine\bin\Debug\net8.0\GestionLaverie.Domaine.dll
+D:\DSI3\GestionDeLaveries\GestionLaverie.Domaine\bin\Debug\net8.0\GestionLaverie.Domaine.pdb
+D:\DSI3\GestionDeLaveries\GestionLaverie.Domaine\obj\Debug\net8.0\GestionLaverie.Domaine.csproj.AssemblyReference.cache
+D:\DSI3\GestionDeLaveries\GestionLaverie.Domaine\obj\Debug\net8.0\GestionLaverie.Domaine.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSI3\GestionDeLaveries\GestionLaverie.Domaine\obj\Debug\net8.0\GestionLaverie.Domaine.AssemblyInfoInputs.cache
+D:\DSI3\GestionDeLaveries\GestionLaverie.Domaine\obj\Debug\net8.0\GestionLaverie.Domaine.AssemblyInfo.cs
+D:\DSI3\GestionDeLaveries\GestionLaverie.Domaine\obj\Debug\net8.0\GestionLaverie.Domaine.csproj.CoreCompileInputs.cache
+D:\DSI3\GestionDeLaveries\GestionLaverie.Domaine\obj\Debug\net8.0\GestionLaverie.Domaine.dll
+D:\DSI3\GestionDeLaveries\GestionLaverie.Domaine\obj\Debug\net8.0\refint\GestionLaverie.Domaine.dll
+D:\DSI3\GestionDeLaveries\GestionLaverie.Domaine\obj\Debug\net8.0\GestionLaverie.Domaine.pdb
+D:\DSI3\GestionDeLaveries\GestionLaverie.Domaine\obj\Debug\net8.0\ref\GestionLaverie.Domaine.dll
